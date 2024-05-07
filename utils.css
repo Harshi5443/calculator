@@ -1,0 +1,27 @@
+.text-center {
+    text-align: center;
+}
+
+.bg-red {
+    background: red;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.m-x-20 {
+    max-width: 30vw;
+}
+
+.button {
+    padding: 20px;
+}
+
+items-center {
+    align-items: center;
+}
+
+.div {
+    align-items: center;
+}
